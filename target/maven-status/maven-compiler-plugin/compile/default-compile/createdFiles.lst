@@ -1,0 +1,10 @@
+net\jagsnet\minecraft\plugins\dungeons\configs\Config.class
+net\jagsnet\minecraft\plugins\dungeons\Dungeons$1.class
+net\jagsnet\minecraft\plugins\dungeons\Dungeons.class
+net\jagsnet\minecraft\plugins\dungeons\commands\Main.class
+net\jagsnet\minecraft\plugins\dungeons\otherStuff\Utils.class
+net\jagsnet\minecraft\plugins\dungeons\listeners\Events.class
+net\jagsnet\minecraft\plugins\dungeons\scheduledtasks\Generator.class
+net\jagsnet\minecraft\plugins\dungeons\listeners\LitematicTest.class
+net\jagsnet\minecraft\plugins\dungeons\commands\Admin.class
+net\jagsnet\minecraft\plugins\dungeons\configs\Configs.class

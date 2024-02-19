@@ -1,0 +1,8 @@
+name: Dungeons
+version: 1
+main: net.jagsnet.minecraft.plugins.dungeons.Dungeons
+api-version: 1.17
+commands:
+  dungeons:
+    description: Base command for the dungeons plugin.
+    usage: /dungeons
